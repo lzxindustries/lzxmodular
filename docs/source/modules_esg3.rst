@@ -1,4 +1,4 @@
-DSG3 Dual Shape Generator
+ESG3 Encoder & Sync Generator
 ===================================
 
 DIP Switch Settings
@@ -36,4 +36,8 @@ DIP Switch Settings
 | 1080p25    | 1011xxxx     | 
 +------------+--------------+
 | 1080p30    | 0111xxxx     | 
++------------+--------------+
+| RGB Out    | xxxxxxx1     | 
++------------+--------------+
+| YPbPr Out  | xxxxxxx0     | 
 +------------+--------------+
