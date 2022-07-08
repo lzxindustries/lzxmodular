@@ -7,9 +7,6 @@ Contents
 --------
 
 .. toctree::
-   modules
-      modules_esg3
-   control_processor
-      luma_to_rgb_to_luma      
+   modules_esg3
    glossary
    
