@@ -1,4 +1,5 @@
-Luma To RGB To Luma Input 
-=====
+Luma To RGB To Luma
+====================
 
-.. _installation:
+.. image:: luma_to_rgb_to_luma_illustration.png
+   :scale: 50%
