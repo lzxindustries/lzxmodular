@@ -1,6 +1,8 @@
 ESG3 Encoder & Sync Generator
 ===================================
 
+.. image:: lzxart/Encoder/LZX 12HP Encoder Frontpanel Color Graphic Dark.png
+
 :HP: 12
 :Power Consumption +12V: 200mA
 
