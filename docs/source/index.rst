@@ -10,5 +10,4 @@ Design Patterns
 
    control_processor
       luma_to_rgb_to_luma
-      api
-   usage
+      
