@@ -9,5 +9,7 @@ Design Patterns
 .. toctree::
 
    control_processor
-      luma_to_rgb_to_luma
+      luma_to_rgb_to_luma      
+   glossary
+
       
