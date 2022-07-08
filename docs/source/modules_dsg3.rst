@@ -1,4 +1,4 @@
-DSG3 Dual Shape Generator
+12HP Dual Shape Generator
 ===================================
 
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png

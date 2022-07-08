@@ -1,4 +1,4 @@
-ESG3 Encoder & Sync Generator
+12HP Encoder & Sync Generator
 ===================================
 
 .. image:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
