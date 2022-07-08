@@ -8,5 +8,6 @@ Contents
 
 .. toctree::
    modules_esg3
+   modules_dsg3
    glossary
    
