@@ -1,6 +1,9 @@
 DSG3 Dual Shape Generator
 ===================================
 
+:HP: 12
+:Power Consumption +12V: 200mA
+
 DIP Switch Settings
 --------------------------------
 

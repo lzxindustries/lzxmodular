@@ -1,6 +1,9 @@
 ESG3 Encoder & Sync Generator
 ===================================
 
+:HP: 12
+:Power Consumption +12V: 200mA
+
 DIP Switch Settings
 --------------------------------
 
