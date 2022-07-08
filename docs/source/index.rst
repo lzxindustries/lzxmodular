@@ -1,19 +1,12 @@
-LZX Modular Video Synthesizer User Manual
+LZX Modular System
 ===================================
 
-**LZX Modular Video Synthesizer** is a collection of EuroRack hardware modules designed for analogue video synthesis and image processing. 
+**LZX Modular System** is a collection of EuroRack hardware modules designed for *analogue video synthesis* and *image processing*. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
+Design Patterns
 --------
 
 .. toctree::
 
-   usage
-   api
+   control_processor
+   luma_to_rgb_to_luma
