@@ -1,7 +1,8 @@
 DSG3 Dual Shape Generator
 ===================================
 
-.. image:: lzxart/DualShape/LZX 12HP Dual Shape Frontpanel Color Graphic Dark.png
+.. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
+    :height: 600
 
 :HP: 12
 :Power Consumption +12V: 200mA
