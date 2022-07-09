@@ -1,5 +1,5 @@
-12HP Dual Shape Generator
-===================================
+Dual Slope Processor & Ramp Generator
+-----------------------------
 
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
     :height: 600
