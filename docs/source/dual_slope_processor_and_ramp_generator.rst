@@ -8,7 +8,7 @@ Dual Slope Processor & Ramp Generator
 :Power Consumption +12V: 200mA
 
 DIP Switch Settings
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 +------------+--------------+
 | Format     | Setting      |
