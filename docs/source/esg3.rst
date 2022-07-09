@@ -1,4 +1,4 @@
-Analog Video Encoder & Sync Generator
+ESG3 Analog Video Encoder & Sync Generator
 =========================================
 
 .. image:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
