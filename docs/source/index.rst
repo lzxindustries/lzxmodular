@@ -7,7 +7,7 @@ The **LZX Modular Video Synthesizer** is a collection of EuroRack hardware modul
    electrical_standards
    mechanical_standards
    modules
-      analog_video_encoder_and_sync_generator
-      dual_shape_generator_and_ramp_generator
+   analog_video_encoder_and_sync_generator
+   dual_shape_generator_and_ramp_generator
    glossary
    
