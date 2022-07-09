@@ -7,8 +7,8 @@ Modules
 -----------
 
 .. toctree::
-   modules_esg3
-   modules_dsg3
+   12hp_encoder_sync_generator
+   12hp_dual_shape_generator
    
 Reference
 ------------
