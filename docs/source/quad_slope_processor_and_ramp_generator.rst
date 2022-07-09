@@ -1,5 +1,5 @@
 Quad Slope Processor & Ramp Generator
------------------------------
+-----------------------------------------
 
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
     :height: 600
