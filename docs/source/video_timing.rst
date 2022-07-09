@@ -1,4 +1,4 @@
-Video Timing Standards
+Video Timing
 =========================
 
 Some video timing standards
