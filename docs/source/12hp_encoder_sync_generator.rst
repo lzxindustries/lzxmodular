@@ -1,5 +1,5 @@
 Video Encoder & Sync Generator
-===================================
+---------------------------------
 
 .. image:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
     :height: 600
@@ -8,7 +8,7 @@ Video Encoder & Sync Generator
 :Power Consumption +12V: 200mA
 
 DIP Switch Settings
---------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 +------------+--------------+
 | Format     | Setting      |
