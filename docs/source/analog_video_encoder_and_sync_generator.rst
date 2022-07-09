@@ -1,4 +1,4 @@
-Video Encoder & Sync Generator
+Analog Video Encoder & Sync Generator
 ---------------------------------
 
 .. image:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
