@@ -1,4 +1,4 @@
-Electrical Standards
+Electrical
 ============================
 
 Some electrical standards
