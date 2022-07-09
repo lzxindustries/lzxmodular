@@ -1,4 +1,4 @@
-Standards
+Standard
 =========
 
 .. toctree::
