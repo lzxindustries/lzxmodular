@@ -1,4 +1,4 @@
-12HP Encoder & Sync Generator
+Video Encoder & Sync Generator
 ===================================
 
 .. image:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
