@@ -1,4 +1,4 @@
- Mechanical Standards
- ========================
+Mechanical Standards
+========================
 
 Some mechanical standards
