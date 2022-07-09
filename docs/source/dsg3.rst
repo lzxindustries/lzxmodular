@@ -1,4 +1,4 @@
-Quad Slope Processor & Ramp Generator
+DSG3 Dual Shape Generator
 ==========================================
 
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
