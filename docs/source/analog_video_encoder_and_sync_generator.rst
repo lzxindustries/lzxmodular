@@ -1,5 +1,5 @@
 Analog Video Encoder & Sync Generator
----------------------------------
+------------------------------------------
 
 .. image:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
     :height: 600
