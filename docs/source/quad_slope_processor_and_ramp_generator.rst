@@ -1,5 +1,5 @@
 Quad Slope Processor & Ramp Generator
------------------------------------------
+==========================================
 
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
     :height: 600
@@ -8,7 +8,7 @@ Quad Slope Processor & Ramp Generator
 :Power Consumption +12V: 200mA
 
 DIP Switch Settings
-^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 +------------+--------------+
 | Format     | Setting      |
