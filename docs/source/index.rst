@@ -7,8 +7,8 @@ Modules
 -----------
 
 .. toctree::
-   12hp_encoder_sync_generator
-   12hp_dual_shape_generator
+   analog_video_encoder_and_sync_generator
+   dual_shape_generator_and_ramp_generator
    
 Reference
 ------------
