@@ -1,4 +1,0 @@
-Control Processor
-====================
-
-Testing paragraph
