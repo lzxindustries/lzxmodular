@@ -1,9 +1,27 @@
 ESG3 Encoder & Sync Generator
 =========================================
 
-.. image:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
-    :height: 600
+.. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
+   :height: 600
+   :alt: ESG3 Encoder & Sync Generator frontpanel
 
+   Frontpanel
+
+   The legend consists of all elements after the caption.  In this
+   case, the legend consists of this paragraph and the following
+   table:
+
+   +-----------------------+-----------------------+
+   | Symbol                | Meaning               |
+   +=======================+=======================+
+   | A                     | Campground            |
+   +-----------------------+-----------------------+
+   | B                     | Lake                  |
+   +-----------------------+-----------------------+
+   | C                     | Mountain              |
+   +-----------------------+-----------------------+
+
+   
 :HP: 12
 :Power Consumption +12V: 200mA
 
