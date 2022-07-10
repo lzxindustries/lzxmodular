@@ -9,20 +9,15 @@ author = 'Lars Larsen'
 release = '0.1'
 version = '0.1.0'
 
+# -- General configuration
+
 extensions = [
-    'matplotlib.sphinxext.only_directives',
-    'matplotlib.sphinxext.plot_directive',
-    'IPython.sphinxext.ipython_directive',
-    'IPython.sphinxext.ipython_console_highlighting',
-    'sphinx.ext.mathjax',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx.ext.graphviz',
-    'sphinx.ext.inheritance_diagram',
-    'numpydoc'
+    'sphinx.ext.graphviz'
 ]
 
 intersphinx_mapping = {
