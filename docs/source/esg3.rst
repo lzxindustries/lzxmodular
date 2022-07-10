@@ -1,6 +1,9 @@
 ESG3 Encoder & Sync Generator
 =========================================
 
+:HP: 12
+:Power Consumption +12V: 200mA
+
 .. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
    :height: 600
    :alt: ESG3 Encoder & Sync Generator frontpanel
@@ -50,42 +53,6 @@ ESG3 Encoder & Sync Generator
    +-----------------------+-----------------------+-----------------------------------------------------------+
    | I2                    | Composite Output LED  | Enabled (Green), Disabled (Yellow)                        |
    +-----------------------+-----------------------+-----------------------------------------------------------+
-
-.. graphviz::
-    :name: sphinx.ext.graphviz
-    :caption: Sphinx and GraphViz Data Flow
-    :alt: How Sphinx and GraphViz Render the Final Document
-    :align: center
-
-     digraph "sphinx-ext-graphviz" {
-         size="6,4";
-         rankdir="LR";
-         graph [fontname="Verdana", fontsize="12"];
-         node [fontname="Verdana", fontsize="12"];
-         edge [fontname="Sans", fontsize="9"];
-
-         sphinx [label="Sphinx", shape="component",
-                   href="https://www.sphinx-doc.org/",
-                   target="_blank"];
-         dot [label="GraphViz", shape="component",
-              href="https://www.graphviz.org/",
-              target="_blank"];
-         docs [label="Docs (.rst)", shape="folder",
-               fillcolor=green, style=filled];
-         svg_file [label="SVG Image", shape="note", fontcolor=white,
-                 fillcolor="#3333ff", style=filled];
-         html_files [label="HTML Files", shape="folder",
-              fillcolor=yellow, style=filled];
-
-         docs -> sphinx [label=" parse "];
-         sphinx -> dot [label=" call ", style=dashed, arrowhead=none];
-         dot -> svg_file [label=" draw "];
-         sphinx -> html_files [label=" render "];
-         svg_file -> html_files [style=dashed];
-     }
-   
-:HP: 12
-:Power Consumption +12V: 200mA
 
 DIP Switch Settings
 -------------------------
