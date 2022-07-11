@@ -1,11 +1,11 @@
 DSG3 Dual Shape Generator
 ==========================================
 
-.. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
-    :height: 600
-
 :HP: 12
 :Power Consumption +12V: 200mA
+
+.. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
+    :height: 600
 
 DIP Switch Settings
 -----------------------
