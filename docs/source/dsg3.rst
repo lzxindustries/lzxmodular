@@ -43,3 +43,13 @@ DIP Switch Settings
 +---------------------+--------------+
 | Disable Auto Detect | xxxx1xxx     | 
 +---------------------+--------------+
+
+QA Procedure
+-----------------------
+
+Requirements
+-----------------------
+* LZX Industries Modular Synthesizer containing at a minimum ESG3 Encoder & Sync Generator
+* Video preview monitor capable of displaying all 15 supported video formats
+
+WIP
