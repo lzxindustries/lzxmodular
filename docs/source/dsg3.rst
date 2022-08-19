@@ -10,6 +10,10 @@ DSG3 Dual Shape Generator
 Frontpanel Legend
 -----------------------
 
+.. figure:: lzxart/Encoder/LZX12HPDualShapeFrontpanelLegend.png
+   :height: 600
+   :alt: DSG3 Dual Shape Generator frontpanel legend
+   
 +-----------------------+-----------------------+-----------------------------------------------------------+
 | Ref                   | Description           | Range                                                     |
 +=======================+=======================+===========================================================+
