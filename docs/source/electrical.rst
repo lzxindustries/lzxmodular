@@ -8,7 +8,7 @@ Patchable Signals
 
 Waveform generators, video sources, boolean logic, and control voltages all share the same voltage ranges and IO connectors.  Cross patching different signal types is an encouragd use of the system.  
 
-:Connectors 3.5mm mono jacks 
+:Connectors: 3.5mm mono jacks 
 :Cables: 3.5mm patch cables
 :Bipolar Range: +/-1V DC
 :Unipolar Range: 0 to +1V DC
