@@ -11,6 +11,10 @@ ESG3 Encoder & Sync Generator
 Frontpanel Legend
 -------------------------
 
+.. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelLegend.png
+   :height: 600
+   :alt: ESG3 Encoder & Sync Generator frontpanel legend
+   
 +-----------------------+-----------------------+-----------------------------------------------------------+
 | Ref                   | Description           | Range                                                     |
 +=======================+=======================+===========================================================+
