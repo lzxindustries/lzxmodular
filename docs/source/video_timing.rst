@@ -18,7 +18,7 @@ The current generation of LZX Modular supports 15 video sync formats.
 - 1080i5994
 - 1080i60
 
-Products released before 2020 supported 2 video syncformats.
+Products released before 2020 supported 2 video sync formats.
 
 - NTSC
 - PAL
