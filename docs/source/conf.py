@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'LZX Modular Video Synthesizer'
+project = 'LZX Modular'
 copyright = '2022, LZX Industries LLC'
 author = 'Lars Larsen'
 
