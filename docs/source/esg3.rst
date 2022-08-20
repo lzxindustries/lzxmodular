@@ -17,7 +17,7 @@ ESG3 is a complex analog video output module supporting SD Composite and SD/HD C
    :height: 600
    :alt: ESG3 Encoder & Sync Generator frontpanel
 
-Frontpanel Interface
+User Interface
 -------------------------
 
 .. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelLegend.png
@@ -67,6 +67,11 @@ Frontpanel Interface
 +-----------------------+-----------------------+-----------------------------------------------------------+
 | I2                    | Composite Output LED  | Enabled (Green), Disabled (Yellow)                        |
 +-----------------------+-----------------------+-----------------------------------------------------------+
+
+Video Sync In & Sync Out
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To synchronize DSG3's internal ramp generators to your video synthesizer's output module, the user must connect the output module's Rear Sync Out to the DSG3 module's Rear Sync In. This connection can be made directly, or through a chain of other modules.  
 
 Video Format Switch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -20,7 +20,7 @@ DSG3 is a complex analog video processor module optimized for generating two ind
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
     :height: 600
 
-Frontpanel Interface
+User Interface
 -----------------------
 
 .. figure:: lzxart/DualShape/LZX12HPDualShapeFrontpanelLegend.png
@@ -79,13 +79,13 @@ Frontpanel Interface
 | J12                   | Shape 2 Abs Output    | 0V to +1V, DC coupled                                     |
 +-----------------------+-----------------------+-----------------------------------------------------------+
    
-Video Sync IO
------------------------------------
+Video Sync In & Sync Out
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To synchronize DSG3's internal ramp generators to your video synthesizer's output module, the user must connect the output module's Rear Sync Out to the DSG3 module's Rear Sync In. This connection can be made directly, or through a chain of other modules.  
 
 
-Rear DIP Switch
+Video Format Switch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Rear DIP Switch does not need to be adjusted by the user under typical operation.  In the case that the user wishes to disable the module's sync format auto detection, they may program a specific video format using this rear switch.  This feature is presented as a potential solution to issues with more troublesome setups that may experience losses in signal integrity, for example when the module is used along with an intentionally glitchy video sync source.
