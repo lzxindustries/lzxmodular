@@ -1,6 +1,17 @@
 DSG3 Dual Shape Generator
 ==========================================
 
+DSG3 is a programmable analog video processor optimized for generating two unique quadrilateral figures. Toggle switches and patch programmability allow the user access to 28 unique analogue function blocks.
+
+- 4 Voltage Mirror (1 - N)
+- 8 Frequency Doubler
+- 4 Logarithmic Amplifier
+- 4 Exponential Amplifier
+- 2 Summing Amplifier
+- 2 Minimum Processor
+- 2 Maximum Processor
+- 2 Absolute Value Processor
+
 :HP: 12
 :Power Consumption +12V: 350mA
 
