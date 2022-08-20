@@ -16,7 +16,8 @@ Basic Testing
 Advanced Testing & User Calibration
 --------------------------------------------------
 
-- Two independent sets of all items in the Basic Testing Requirements
+- All items in the Basic Testing Requirements list
+- A second set of all items in the Basic Testing Requirements list if the test requires it
 - A dual channel oscilloscope with at least 100 MHz bandwidth and two low voltage signal probes
 - A multimeter with voltmeter and ammeter functions
 - Metric and imperial small nut driver and screwdriver sets for module disassembly, reassembly, and trimmer adjustment
