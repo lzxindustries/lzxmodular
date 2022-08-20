@@ -1,7 +1,7 @@
 DSG3 Dual Shape Generator
 ==========================================
 
-DSG3 is a complex analog video processor module optimized for generating two unique quadrilateral figures. Toggle switches and patch programmability allow the user access to 2 video waveform generators and 28 analogue function blocks.
+DSG3 is a complex analog video processor module optimized for generating two independent quadrilateral figures. Toggle switches and patch programmability allow the user access to 2 video waveform generators and 28 analogue function blocks.
 
 - SD/HD Horizontal Ramp Generator with Video Format Auto Detection
 - SD/HD Vertical Ramp Generator with Video Format Auto Detection
