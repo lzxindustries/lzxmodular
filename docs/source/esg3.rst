@@ -1,6 +1,15 @@
 ESG3 Encoder & Sync Generator
 =========================================
 
+ESG3 is a complex analog video output module supporting SD Composite and SD/HD Component video formats. With 12 analog function blocks on its frontend controls, the user can find results ranging from simple color correction to heavily stylized multi band colorization. 
+
+- RGB Processor / Colorizer
+- RGB Inverter
+- RGB Mute 
+- SD/HD Video Sync Generator supporting NTSC, PAL, 480p, 576p, 720p50, 720p5994, 720p60, 1080i50, 1080i5994, 1080i60, 1080p2398, 1080p24, 1080p25, 1080p2997, 1080p30
+- SD/HD Component Video Encoder supporting NTSC, PAL, 480p, 576p, 720p50, 720p5994, 720p60, 1080i50, 1080i5994, 1080i60, 1080p2398, 1080p24, 1080p25, 1080p2997, 1080p30
+- SD Composite Video Encoder supporting NTSC and PAL
+
 :HP: 12
 :Power Consumption +12V: 300mA
 
@@ -8,7 +17,7 @@ ESG3 Encoder & Sync Generator
    :height: 600
    :alt: ESG3 Encoder & Sync Generator frontpanel
 
-Frontpanel Legend
+Frontpanel Interface
 -------------------------
 
 .. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelLegend.png
@@ -59,8 +68,11 @@ Frontpanel Legend
 | I2                    | Composite Output LED  | Enabled (Green), Disabled (Yellow)                        |
 +-----------------------+-----------------------+-----------------------------------------------------------+
 
-DIP Switch Settings
+Video Sync IO
 -------------------------
+
+Front DIP Switch
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0 represents the switch's OFF state.  1 represents the switch's ON state.  x indicates a position irrelevant to the listed setting.
 
