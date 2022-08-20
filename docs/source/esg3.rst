@@ -47,7 +47,7 @@ Frontpanel Interface
 +-----------------------+-----------------------+-----------------------------------------------------------+
 | S4                    | Blue Function         | Invert (Up), Enable (Center), Mute (Down)                 |
 +-----------------------+-----------------------+-----------------------------------------------------------+
-| S5                    | Standard Config       | See settings chart below                                  |
+| S5                    | Video Format Switch   | See settings chart below                                  |
 +-----------------------+-----------------------+-----------------------------------------------------------+
 | J1                    | Red Input             | 0V to +1V, DC coupled                                     |
 +-----------------------+-----------------------+-----------------------------------------------------------+
@@ -68,10 +68,7 @@ Frontpanel Interface
 | I2                    | Composite Output LED  | Enabled (Green), Disabled (Yellow)                        |
 +-----------------------+-----------------------+-----------------------------------------------------------+
 
-Video Sync IO
--------------------------
-
-Front DIP Switch
+Video Format Switch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 0 represents the switch's OFF state.  1 represents the switch's ON state.  x indicates a position irrelevant to the listed setting.
