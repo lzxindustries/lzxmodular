@@ -20,7 +20,7 @@ DSG3 is a complex analog video processor module optimized for generating two ind
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
     :height: 600
 
-User Interface
+Interface
 -----------------------
 
 .. figure:: lzxart/DualShape/LZX12HPDualShapeFrontpanelLegend.png
@@ -79,11 +79,15 @@ User Interface
 | J12                   | Shape 2 Abs Output    | 0V to +1V, DC coupled                                     |
 +-----------------------+-----------------------+-----------------------------------------------------------+
    
+12V DC & EuroRack Power In
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Your power supply must be connected to either the 12V DC input jack or the EuroRack power connector. Do not use both connectors at the same time.
+
 Video Sync In & Sync Out
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To synchronize DSG3's internal ramp generators to your video synthesizer's output module, the user must connect the output module's Rear Sync Out to the DSG3 module's Rear Sync In. This connection can be made directly, or through a chain of other modules.  
-
 
 Video Format Switch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

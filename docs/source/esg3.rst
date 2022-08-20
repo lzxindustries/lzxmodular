@@ -17,7 +17,7 @@ ESG3 is a complex analog video output module supporting SD Composite and SD/HD C
    :height: 600
    :alt: ESG3 Encoder & Sync Generator frontpanel
 
-User Interface
+Interface
 -------------------------
 
 .. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelLegend.png
@@ -67,6 +67,11 @@ User Interface
 +-----------------------+-----------------------+-----------------------------------------------------------+
 | I2                    | Composite Output LED  | Enabled (Green), Disabled (Yellow)                        |
 +-----------------------+-----------------------+-----------------------------------------------------------+
+
+12V DC & EuroRack Power In
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Your power supply must be connected to either the 12V DC input jack or the EuroRack power connector. Do not use both connectors at the same time.
 
 Video Sync In & Sync Out
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
