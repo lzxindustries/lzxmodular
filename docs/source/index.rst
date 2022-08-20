@@ -1,10 +1,11 @@
-LZX Modular Video Synthesizer
+LZX Modular
 ===================================
 
-The **LZX Modular Video Synthesizer** is a collection of EuroRack hardware modules designed for *analogue video synthesis* and *image processing*.
+A collection of EuroRack modules for *analog video synthesis* and *image processing*.
 
 .. toctree::
    standard
    modules
+   testcal
    glossary
    

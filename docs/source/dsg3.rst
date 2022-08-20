@@ -1,7 +1,7 @@
 DSG3 Dual Shape Generator
 ==========================================
 
-DSG3 is a programmable analog video processor optimized for generating two unique quadrilateral figures. Toggle switches and patch programmability allow the user access to 28 unique analogue function blocks.
+DSG3 is a complex analog video processor optimized for generating two unique quadrilateral figures. Toggle switches and patch programmability allow the user access to 2 video waveform generators and 28 analogue function blocks.
 
 - SD/HD Horizontal Ramp Generator with Video Format Auto Detection
 - SD/HD Vertical Ramp Generator with Video Format Auto Detection
@@ -84,6 +84,10 @@ Video Sync IO
 
 To synchronize DSG3's internal ramp generators to your video synthesizer's output module, the user must connect the output module's Rear Sync Out to the DSG3 module's Rear Sync In. This connection can be made directly, or through a chain of other modules.  
 
+
+Rear DIP Switch
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 The Rear DIP Switch does not need to be adjusted by the user under typical operation.  In the case that the user wishes to disable the module's sync format auto detection, they may program a specific video format using this rear switch.  This feature is presented as a potential solution to issues with more troublesome setups that may experience losses in signal integrity, for example when the module is used along with an intentionally glitchy video sync source.
 
 0 represents the switch's OFF state. 1 represents the switch's ON state. x indicates a position irrelevant to the listed setting.
@@ -123,4 +127,3 @@ The Rear DIP Switch does not need to be adjusted by the user under typical opera
 +---------------------+--------------+
 | 1080p30             | 0111xxxx     | 
 +---------------------+--------------+
-
