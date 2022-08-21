@@ -71,6 +71,8 @@ Frontpanel Legend
 Video Format Switch
 -----------------------
 
+ESG3's format selection switch determines the module's video output format and video sync standard.  Additionally, the user may select between YPbPr and RGB colorspace modes for the Component output encoder.  In most cases, the user should select the YPbPr component output mode.  Optionally, RGB component output mode may be used with some displays and capture devices if supported.
+
 0 represents the switch's OFF state.  1 represents the switch's ON state.  x indicates a position irrelevant to the listed setting.
 
 +------------+--------------+
