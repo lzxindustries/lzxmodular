@@ -6,7 +6,7 @@ A collection of EuroRack modules for *analog video synthesis* and *image process
 .. toctree::
    gettingstarted
    modules
-   functions
+   concepts
    standards
    testcal
    glossary
