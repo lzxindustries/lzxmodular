@@ -1,8 +1,8 @@
 Getting Started
-============================
+==============================================
 
 Installing Modules
-----------------------
+----------------------------------------------
 
 Installing a new module in your system should be done in the following steps.  Always power down your system while installing a new module.
 
@@ -22,7 +22,7 @@ Mounting
 Secure the module to your EuroRack mounting rails using the screws provided by your EuroRack case provider. 
 
 Your First Patch
------------------------------------
+----------------------------------------------
 
 Connecting A Video Display
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
