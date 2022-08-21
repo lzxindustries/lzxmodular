@@ -20,7 +20,7 @@ DSG3 is a complex analog video processor module optimized for generating two ind
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
     :height: 600
 
-Interface
+Frontpanel Legend
 -----------------------
 
 .. figure:: lzxart/DualShape/LZX12HPDualShapeFrontpanelLegend.png
@@ -80,7 +80,7 @@ Interface
 +-----------------------+-----------------------+-----------------------------------------------------------+
    
 Video Format Switch
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 The Rear DIP Switch does not need to be adjusted by the user under typical operation.  In the case that the user wishes to disable the module's sync format auto detection, they may program a specific video format using this rear switch.  This feature is presented as a potential solution to issues with more troublesome setups that may experience losses in signal integrity, for example when the module is used along with an intentionally glitchy video sync source.
 

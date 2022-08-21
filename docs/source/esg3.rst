@@ -17,8 +17,8 @@ ESG3 is a complex analog video output module supporting SD Composite and SD/HD C
    :height: 600
    :alt: ESG3 Encoder & Sync Generator frontpanel
 
-Interface
--------------------------
+Frontpanel Legend
+-----------------------
 
 .. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelLegend.png
    :height: 600
@@ -69,7 +69,7 @@ Interface
 +-----------------------+-----------------------+-----------------------------------------------------------+
 
 Video Format Switch
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 0 represents the switch's OFF state.  1 represents the switch's ON state.  x indicates a position irrelevant to the listed setting.
 
