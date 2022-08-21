@@ -24,8 +24,32 @@ Secure the module to your EuroRack mounting rails using the screws provided by y
 Your First Patch
 ----------------------------------------------
 
+This patch assumes you have followed the module installation instructions above, and your LZX Modular system is powered on.
+
+Here's what you will need:
+
+- ESG3 Encoder & Sync Generator module
+- DSG3 Dual Shape Generator module 
+- An RCA-to-RCA cable for composite video output
+- A video display with composite video input
+- Three 3.5mm patch cables
+
+Initial Settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+All toggle switches on ESG3 and DSG3 should be reset to their center (middle) position.  All knobs on ESG3 should be set to their detented (middle) position.
+
+Change Video Format to NTSC or PAL
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Turn all of ESG3's front DIP switches to their OFF position.  If you want NTSC output, leave them all OFF.  If you want PAL output, turn switch #1 to the ON position.
+
 Connecting A Video Display
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Using ESG3 & DSG3 for Color Patternmaking
+Connect your video display's CVBS input to your ESG3 Video Encoder & Sync Generator module's CVBS output.  
+
+Generating A Color Pattern
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Patch any three of DSG3's eight outputs to your ESG3's Red, Green & Blue input jacks.  
