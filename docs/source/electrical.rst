@@ -11,7 +11,7 @@ Waveform generators, video sources, boolean logic, and control voltages all shar
 :Connectors: 3.5mm mono jacks 
 :Cables: 3.5mm patch cables
 :Bipolar Parameter Scale: +/-1V DC
-:Unipolar Parameter Scale: 0 to +1V DCDC
+:Unipolar Parameter Scale: 0 to +1V DC
 :Analog Headroom: At least +/-2.5V DC
 :Min Bandwidth: 10 MHz
 :Output Impedance: 499 ohms
