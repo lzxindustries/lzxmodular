@@ -68,16 +68,6 @@ Interface
 | I2                    | Composite Output LED  | Enabled (Green), Disabled (Yellow)                        |
 +-----------------------+-----------------------+-----------------------------------------------------------+
 
-12V DC & EuroRack Power In
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Your power supply must be connected to either the 12V DC input jack or the EuroRack power connector. Do not use both connectors at the same time.
-
-Video Sync In & Sync Out
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-To synchronize DSG3's internal ramp generators to your video synthesizer's output module, the user must connect the output module's Rear Sync Out to the DSG3 module's Rear Sync In. This connection can be made directly, or through a chain of other modules.  
-
 Video Format Switch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
