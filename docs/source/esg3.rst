@@ -1,6 +1,10 @@
 ESG3 Encoder & Sync Generator
 =========================================
 
+.. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
+   :height: 600
+   :alt: ESG3 Encoder & Sync Generator frontpanel
+
 ESG3 is a complex analog video output module supporting SD Composite and SD/HD Component video formats. With 12 analog function blocks on its frontend controls, the user can find results ranging from simple color correction to heavily stylized multi band colorization. 
 
 - RGB Processor / Colorizer
@@ -12,10 +16,6 @@ ESG3 is a complex analog video output module supporting SD Composite and SD/HD C
 
 :HP: 12
 :Power Consumption +12V: 300mA
-
-.. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png
-   :height: 600
-   :alt: ESG3 Encoder & Sync Generator frontpanel
 
 Frontpanel Legend
 -----------------------

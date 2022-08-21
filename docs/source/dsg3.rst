@@ -1,6 +1,9 @@
 DSG3 Dual Shape Generator
 ==========================================
 
+.. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
+    :height: 600
+
 DSG3 is a complex analog video processor module optimized for generating two independent quadrilateral figures. Toggle switches and patch programmability allow the user access to 2 video waveform generators and 28 analogue function blocks.
 
 - SD/HD Horizontal Ramp Generator with Video Format Auto Detection
@@ -16,9 +19,6 @@ DSG3 is a complex analog video processor module optimized for generating two ind
 
 :HP: 12
 :Power Consumption +12V: 350mA
-
-.. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png
-    :height: 600
 
 Frontpanel Legend
 -----------------------
