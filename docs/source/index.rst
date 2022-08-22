@@ -4,7 +4,7 @@ LZX Modular
 A collection of EuroRack modules for *analog video synthesis* and *image processing*.
 
 .. image:: lzxart/Systems/StarterSystem84HP.jpg
-    :height: 300
+    :width: 600
 
 .. toctree::
    gettingstarted
