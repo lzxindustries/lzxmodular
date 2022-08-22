@@ -1,6 +1,19 @@
 Getting Started
 ==============================================
 
+What Is A Video Synthesizer?
+----------------------------------------------
+
+A video synthesizer is an electronic instrument which creates or processes video images in real time. A modular video synthesizer is comprised of one or more electronic modules. Each module performs a specific function, such as shape generation or color mixing. Modules are connected to each other with patch cables in an open ended manner which encourages experimentation and offers a wholly immersive creative experience. A large system of modules may be purchased at once, or it may be built up over according to an artist’s specific creative goals.
+
+Quick facts about LZX Modular:
+
+- Compatible with EuroRack cases and patch cables used by modular audio synthesizers.
+- Can be powered by 12V DC Wall Wart adapters or by EuroRack power supplies.
+- External video inputs and outputs are the same as the Component & Composite connections found on most televisions and some cameras.
+- Patchable signal levels are lower (1V) than most audio modules (5V-10V), but inputs are tolerant of any voltage produced by a EuroRack system.
+- Voltage control inputs are capable of very high frequencies, allowing signals such as camera images to modulate oscillators or VCAs.
+
 Installing Modules
 ----------------------------------------------
 
