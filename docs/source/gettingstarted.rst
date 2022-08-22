@@ -39,9 +39,6 @@ Initial Settings
 
 All toggle switches on ESG3 and DSG3 should be reset to their center (middle) position.  All knobs on ESG3 should be set to their detented (middle) position.
 
-Set Video Format
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Turn all of ESG3's front DIP switches to their OFF position.  If you want NTSC output, leave them all OFF.  If you want PAL output, turn switch #1 to the ON position.
 
 Connecting A Video Display
