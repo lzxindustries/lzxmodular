@@ -74,7 +74,7 @@ Patch any three of DSG3's eight outputs to your ESG3's Red, Green & Blue input j
 [ PHOTO: ESG3 / DSG3 PATCHED WITH 3 CABLES ]
 [ PHOTO: EXAMPLE OUTPUT GALLERY, 3-5 IMAGES ]
 
-Processing Shapes To Add Complexity
+Adding Complexity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Next, let's make the geometry of your pattern capable of more complex results through series processing.  Patch two outputs from DSG3's first shape generator, to the inputs of it's second shape generator.  Now take your RGB pattern from the second shape generator's outputs.
