@@ -6,8 +6,11 @@ What Is A Video Synthesizer?
 
 A video synthesizer is an electronic instrument which creates or processes video images in real time. A modular video synthesizer is comprised of one or more electronic modules. Each module performs a specific function, such as shape generation or color mixing. Modules are connected to each other with patch cables in an open ended manner which encourages experimentation and offers a wholly immersive creative experience. A large system of modules may be purchased at once, or it may be built up over according to an artist’s specific creative goals.
 
-Quick facts about LZX Modular:
+Quick Facts About LZX Modular
+----------------------------------------------
 
+- LZX started as a DIY project in 2008, and then evolved through several series of modular instrument designs.  Previous generations of LZX modules were referred to as the Visionary (2011), Expedition (2015), and Orion (2018) series.  The current module series is referred to as just LZX Modular, or Gen3 for short.
+- LZX Modular is manufactured in Portland, Oregon by LZX Industries.
 - Compatible with EuroRack cases and patch cables used by modular audio synthesizers.
 - Can be powered by 12V DC Wall Wart adapters or by EuroRack power supplies.
 - External video inputs and outputs are the same as the Component & Composite connections found on most televisions and some cameras.
@@ -24,15 +27,22 @@ Connecting Power
 
 Your power supply must be connected to either the 12V DC input jack or the EuroRack power connector. Do not use both connectors at the same time.
 
+[ PHOTO: REAR OF MODULE CONNECTED TO DC BARREL POWER ]
+[ PHOTO: REAR OF MODULE CONNECTED TO EURORACK POWER ]
+
 Connecting Video Sync
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 For each module with a Video Sync In on the rear, it must be connected to your ESG3 Encoder & Sync Generator module.  This connection may be made directly, or through a chain of other modules.  ESG3 Encoder & Sync Generator may be connected to other ESG3 Encoder & Sync Generator modules in this manner, or it's Video Sync In may be left disconnected.
 
+[ PHOTO: REAR OF TWO MODULES WITH RCA SYNC CONNECTION ]
+
 Mounting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Secure the module to your EuroRack mounting rails using the screws provided by your EuroRack case provider. 
+
+[ PHOTO: MODULE INSTALLATION WITH SCREWS & SCREWDRIVER HAND IN SHOT ]
 
 Your First Patch
 ----------------------------------------------
