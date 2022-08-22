@@ -47,6 +47,8 @@ Here's what you will need:
 - A video display with composite video input
 - Three 3.5mm patch cables
 
+[ PHOTO: TOP DOWN SHOT OF ALL ITEMS LISTED ABOVE ]
+
 Initial Settings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -54,12 +56,28 @@ All toggle switches on ESG3 and DSG3 should be reset to their center (middle) po
 
 Turn all of ESG3's front DIP switches to their OFF position.  If you want NTSC output, leave them all OFF.  If you want PAL output, turn switch #1 to the ON position.
 
+[ PHOTO: ESG3 & DSG3 INITIAL SETTINGS ]
+
 Connecting A Video Display
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Connect your video display's CVBS input to your ESG3 Video Encoder & Sync Generator module's CVBS output.  
 
+[ PHOTO: ESG3 CONNECTION ]
+[ PHOTO: REAR DISPLAY CONNECTION ]
+
 Generating A Color Pattern
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Patch any three of DSG3's eight outputs to your ESG3's Red, Green & Blue input jacks.  
+Patch any three of DSG3's eight outputs to your ESG3's Red, Green & Blue input jacks.  Play with the knobs and switches on ESG3 and DSG3, exploring the capabilities of your patternmaking patch.  Patch different outputs from DSG3 to observe different combinations.
+
+[ PHOTO: ESG3 / DSG3 PATCHED WITH 3 CABLES ]
+[ PHOTO: EXAMPLE OUTPUT GALLERY, 3-5 IMAGES ]
+
+Processing Shapes To Add Complexity
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Next, let's make the geometry of your pattern capable of more complex results through series processing.  Patch two outputs from DSG3's first shape generator, to the inputs of it's second shape generator.  Now take your RGB pattern from the second shape generator's outputs.
+
+[ PHOTO: ESG3 / DSG3 PATCHED WITH 5 CABLES ]
+[ PHOTO: EXAMPLE COMPLEX OUTPUT GALLERY, 3-5 IMAGES ]
