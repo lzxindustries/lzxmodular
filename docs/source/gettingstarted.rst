@@ -19,6 +19,8 @@ Quick Facts About LZX Modular
 - Patchable signal levels are lower (1V) than most audio modules (5V-10V), but inputs are tolerant of any voltage produced by a EuroRack system.
 - Voltage control inputs are capable of very high frequencies, allowing signals such as camera images to modulate oscillators or VCAs.
 
+[ PHOTO: LZX WORKSHOP ]
+
 Installing Modules
 ----------------------------------------------
 
