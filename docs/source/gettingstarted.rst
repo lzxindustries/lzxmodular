@@ -9,7 +9,9 @@ A video synthesizer is an electronic instrument which creates or processes video
 Quick Facts About LZX Modular
 ----------------------------------------------
 
-- LZX started as a DIY project in 2008, and then evolved through several series of modular instrument designs.  Previous generations of LZX modules were referred to as the Visionary (2011), Expedition (2015), and Orion (2018) series.  The current module series is referred to as just LZX Modular, or Gen3 for short.
+- LZX started as a DIY project in 2008, and then evolved through several series of modular instrument designs.  
+- The LZX mission is to preserve and expand upon tools available to the video art movement from the 1960s thru the 1980s. 
+- Previous generations of LZX modules were referred to as the Visionary series (2011), Expedition series (2015), and Orion series (2018).  The current module series (2022) is referred to as just LZX Modular, or Gen3 for short.
 - LZX Modular is manufactured in Portland, Oregon by LZX Industries.
 - Compatible with EuroRack cases and patch cables used by modular audio synthesizers.
 - Can be powered by 12V DC Wall Wart adapters or by EuroRack power supplies.
