@@ -22,3 +22,9 @@ Advanced Testing & User Calibration
 - A multimeter with voltmeter and ammeter functions
 - Metric and imperial small nut driver and screwdriver sets for module disassembly, reassembly, and trimmer adjustment
 
+Firmware Programming (ESG3 & DSG3)
+--------------------------------------------------
+
+- Lattice HW-USBN-2B Programming Cable
+- TagConnect TC-LATTICE-10 Programming Cable Adapter
+- TagConnect TC2050-IDC-NL 10-Pin No-Legs Cable with Ribbon Connector
