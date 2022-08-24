@@ -108,8 +108,6 @@ ESG3's format selection switch determines the module's video output format and v
 +------------+--------------+
 | 1080p30    | 0111xxxx     | 
 +------------+--------------+
-| 240p60     | 1111xxxx     | 
-+------------+--------------+
 | RGB Out    | xxxxxxx1     | 
 +------------+--------------+
 | YPbPr Out  | xxxxxxx0     | 
