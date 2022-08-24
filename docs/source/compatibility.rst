@@ -7,12 +7,13 @@ EuroRack Cases & Power Supplies
 -------------------------------------
 
 - LZX Vessel Case
+- LZX Capsule Power
 - TipTop Audio Mantis Case
 - Arturia Rack Brute
-- LZX Capsule Power
 - Malekko Power
 
-Video Capture & Display Devices
--------------------------------------
+Video Capture & Display Devices (SD/HD)
+-------------------------------------------------------
 - Blackmagic Design Analog-to-SDI Mini Converter
 - Blackmagic Design DeckLink Quad SDI PCI Card
+- SEETEC P173-9HSD-RM Broadcast Video Monitor
