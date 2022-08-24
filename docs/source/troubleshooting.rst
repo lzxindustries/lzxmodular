@@ -12,7 +12,7 @@ Troubleshooting
 - Your video device might be defective. Verify that your video device can display video signals from a different video source of the same video format, using a different set of video cables. If you see the same issue, your device is defective.  Contact the manufacturer of your video device for advice on further troubleshooting.
 - Your video cables might be defective. Try with another set of video cables.  If your issue has been resolved with the new cables, your video cables were defective.
 - Your video cables might be too long. Try with another set of video cables no longer than 2 meters in length. If this resolves your issue, use the shorter cables.  If you require a very long cable run, you may need to add a video distribution amplifier to your equipment list.
-
+- Your ESG3 module may be defective. If none of the above solutions work, check to see if the issue goes away when you adjust the Contrast controls on your ESG3.  If so, does the issue return when you recenter the controls?  If so, this is most likely due to a PCB assembly or connector issue, such as a dry or unsoldered pad.  The issue can be resolved by service or replacement performed by a qualified technician at LZX.  
 
 *My ESG3 doesn't work sometimes when I power my system on.  When this happens, both frontpanel indicators are green.*
 
