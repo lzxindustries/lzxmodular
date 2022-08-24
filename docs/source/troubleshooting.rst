@@ -1,7 +1,7 @@
 Troubleshooting
 =========================================
 
-*I suspect something is not working.  What are some good troubleshooting steps to follow?
+*I suspect something is not working.  What are some good troubleshooting steps to follow?*
 
 - Keep it simple.  Simplify your patch to the least number of cables or connections that create the issue you're seeing.  Sometimes this will reveal the problem.  If you jump into more complex theories right away, you may miss simple answers, like a defective patch cable or a missed setting. 
 - Your 12V power supply or EuroRack power supply may not be supplying enough current. Underpowering your system can result in a variety of glitchy behavior. Add up the current consumption required by your LZX modules or by any other modules sharing the same power source, and verify that this is less than the current supplied by your power supply.  If it is very close to, or greater than, the supplied current, upgrade your power supply. 
