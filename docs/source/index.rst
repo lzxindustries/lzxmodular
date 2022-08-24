@@ -13,5 +13,6 @@ A collection of EuroRack modules for *analog video synthesis* and *image process
    beginnerpatches
    standards
    testcal
+   compatibility
    glossary
    
