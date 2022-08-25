@@ -14,17 +14,17 @@ Modules
 +-------------+---------------------------------------+------------+------------+-----------------------------+
 | DWO3        | Dual Wideband Oscillator              | 12HP       | 42mm       |                             |
 +-------------+---------------------------------------+------------+------------+-----------------------------+
-| KEYCHAIN    | Triple Hard Key Generator             | 8HP        | 32mm       | +12V @ 110mA                |
+| Keychain    | Triple Hard Key Generator             | 8HP        | 32mm       | +12V @ 110mA                |
 +-------------+---------------------------------------+------------+------------+-----------------------------+
-| STAIRS      | Six Stage Frequency Multiplier        | 8HP        | 32mm       | +12V @ 210mA                |
+| Stairs      | Six Stage Frequency Multiplier        | 8HP        | 32mm       | +12V @ 210mA                |
 +-------------+---------------------------------------+------------+------------+-----------------------------+
-| PROC        | Triple Voltage Processor              | 8HP        | 32mm       | +12V @ 110mA                |
+| Proc        | Triple Voltage Processor              | 8HP        | 32mm       | +12V @ 110mA                |
 +-------------+---------------------------------------+------------+------------+-----------------------------+
-| SUMDIST     | Summing & Distribution Amplifier      | 12HP       | 32mm       | +12V @ 200mA                |
+| SumDist     | Summing & Distribution Amplifier      | 12HP       | 32mm       | +12V @ 200mA                |
 +-------------+---------------------------------------+------------+------------+-----------------------------+
-| MATTE       | Dual RGB Offset Generator             | 8HP        | 32mm       | +12V @ 50mA                 |
+| Matte       | Dual RGB Offset Generator             | 8HP        | 32mm       | +12V @ 50mA                 |
 +-------------+---------------------------------------+------------+------------+-----------------------------+
-| CONTOUR     | Triple Differentiator                 | 8HP        | 32mm       |                             |
+| Contour     | Triple Differentiator                 | 8HP        | 32mm       |                             |
 +-------------+---------------------------------------+------------+------------+-----------------------------+
 
 .. toctree::
