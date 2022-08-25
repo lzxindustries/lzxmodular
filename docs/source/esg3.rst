@@ -1,4 +1,4 @@
-ESG3 Encoder & Sync Generator
+ESG3
 =========================================
 
 .. figure:: lzxart/Encoder/LZX12HPEncoderFrontpanelColorGraphicDark.png

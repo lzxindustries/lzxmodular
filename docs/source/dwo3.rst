@@ -1,4 +1,4 @@
-DWO3 Dual Wideband Oscillator
+DWO3
 =========================================
 
 .. image:: lzxart/DualOsc/Frontpanel.png

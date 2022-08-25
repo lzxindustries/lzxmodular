@@ -1,4 +1,4 @@
-SUM/DIST Summing & Distribution Amplifier
+Sum/Dist
 =========================================
 
 .. image:: lzxart/SumDist/Frontpanel.png

@@ -1,4 +1,4 @@
-KEYCHAIN Triple Hard Key Generator
+Keychain
 =========================================
 
 .. image:: lzxart/Keychain/Frontpanel.png

@@ -1,4 +1,4 @@
-STAIRS Six Stage Frequency Multiplier
+Stairs
 =========================================
 
 .. image:: lzxart/Stairs/Frontpanel.png

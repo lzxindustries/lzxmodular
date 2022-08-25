@@ -1,4 +1,4 @@
-PROC Triple Voltage Processor
+Proc
 =========================================
 
 .. image:: lzxart/Proc/Frontpanel.png

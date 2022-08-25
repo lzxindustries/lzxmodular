@@ -1,4 +1,4 @@
-SMX3 Summing Matrix
+SMX3
 =========================================
 
 .. image:: lzxart/MatrixMixer/Frontpanel.png

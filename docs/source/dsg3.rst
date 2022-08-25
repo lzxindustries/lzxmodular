@@ -1,4 +1,4 @@
-DSG3 Dual Shape Generator
+DSG3
 ==========================================
 
 .. image:: lzxart/DualShape/LZX12HPDualShapeFrontpanelColorGraphicDark.png

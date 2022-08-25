@@ -1,4 +1,4 @@
-FKG3 Luma & Color Keyer
+FKG3
 =========================================
 
 .. image:: lzxart/Keyer/Frontpanel.png

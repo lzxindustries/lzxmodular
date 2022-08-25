@@ -1,4 +1,4 @@
-MATTE Dual RGB Offset Generator
+Matte
 =========================================
 
 .. image:: lzxart/Matte/Frontpanel.png
