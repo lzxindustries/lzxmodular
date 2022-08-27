@@ -12,7 +12,7 @@ Visit our GitHub repository at https://github.com/lzxindustries/lzxdocs and our 
 *Looking for firmware binaries?* 
 Visit our GitHub repository at https://github.com/lzxindustries/firmware
 
-This documentation site is a work in progress. 
+This documentation site is a work in progress and may contain some placeholder content for now.  We plan to launch this site in a complete state in early September 2022.
 
 .. toctree::
    gettingstarted
