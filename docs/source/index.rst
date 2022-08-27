@@ -3,8 +3,11 @@ LZX Modular
 
 A collection of EuroRack modules for *analog video synthesis* and *image processing*.
 
-Looking for legacy product docs? Check our GitHub repository at https://github.com/lzxindustries/lzxdocs
-Looking for firmware binaries? Check our GitHub repository at https://github.com/lzxindustries/firmware
+*Looking for legacy product docs?* 
+Visit our GitHub repository at https://github.com/lzxindustries/lzxdocs and our user community at https://community.lzxindustries.net
+
+*Looking for firmware binaries?* 
+Visit our GitHub repository at https://github.com/lzxindustries/firmware
 
 .. image:: lzxart/Systems/StarterSystem84HP.jpg
     :width: 600
