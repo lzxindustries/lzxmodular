@@ -60,7 +60,7 @@ Here's what you will need:
 - A video display with composite video input
 - Three 3.5mm patch cables
 
-.. image:: lzxart/GettingStartedKit.png
+.. image:: lzxart/GettingStartedKit.jpg
 
 Initial Settings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
