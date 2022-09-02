@@ -18,7 +18,7 @@ Quick Facts About LZX
 - Patchable signal levels are lower (1V) than most audio modules (5V-10V), but inputs are tolerant of any voltage produced by a EuroRack system.
 - Voltage control inputs are capable of very high frequencies, allowing signals such as camera images to modulate oscillators or VCAs.
 
-[ PHOTO: LZX WORKSHOP ]
+.. image:: lzxart/GettingStartedWorkshop.jpg
 
 Installing Modules
 ----------------------------------------------
@@ -30,22 +30,19 @@ Connecting Power
 
 Your power supply must be connected to either the 12V DC input jack or the EuroRack power connector. Do not use both connectors at the same time.
 
-[ PHOTO: REAR OF MODULE CONNECTED TO DC BARREL POWER ]
-[ PHOTO: REAR OF MODULE CONNECTED TO EURORACK POWER ]
-
 Connecting Video Sync
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 For each module with a Video Sync In on the rear, it must be connected to your ESG3 Encoder & Sync Generator module using an RCA cable.  This connection may be made directly, or through a chain of other modules.  ESG3 Encoder & Sync Generator may be connected to other ESG3 Encoder & Sync Generator modules in this manner, or its video sync input may be left disconnected.
 
-[ PHOTO: REAR OF TWO MODULES WITH RCA SYNC CONNECTION ]
+.. image:: lzxart/GettingStartedSyncCable.jpg
 
 Mounting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Secure the module to your EuroRack mounting rails using the screws provided by your EuroRack case provider. 
 
-[ PHOTO: MODULE INSTALLATION WITH SCREWS & SCREWDRIVER HAND IN SHOT ]
+.. image:: lzxart/GettingStartedScrewMounting.jpg
 
 Your First Patch
 ----------------------------------------------
@@ -69,28 +66,25 @@ All toggle switches on ESG3 and DSG3 should be reset to their center (middle) po
 
 Turn all of ESG3's front DIP switches to their OFF position.  If you want NTSC output, leave them all OFF.  If you want PAL output, turn switch #1 to the ON position.
 
-[ PHOTO: ESG3 & DSG3 INITIAL SETTINGS ]
-
 Connecting A Video Display
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Connect your video display's CVBS input to your ESG3 Video Encoder & Sync Generator module's CVBS output.  
 
-[ PHOTO: ESG3 CONNECTION ]
-[ PHOTO: REAR DISPLAY CONNECTION ]
+.. image:: lzxart/GettingStartedVideoSource.jpg
+.. image:: lzxart/GettingStartedVideoConnector.jpg
 
 Generating A Color Pattern
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Patch any three of DSG3's eight outputs to your ESG3's Red, Green & Blue input jacks.  Play with the knobs and switches on ESG3 and DSG3, exploring the capabilities of your patternmaking patch.  Patch different outputs from DSG3 to observe different combinations.
 
-[ PHOTO: ESG3 / DSG3 PATCHED WITH 3 CABLES ]
-[ PHOTO: EXAMPLE OUTPUT GALLERY, 3-5 IMAGES ]
+.. image:: lzxart/GettingStartedPatch01.jpg
 
 Adding Complexity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Next, let's make the geometry of your pattern capable of more complex results through series processing.  Patch two outputs from DSG3's first shape generator, to the inputs of it's second shape generator.  Now take your RGB pattern from the second shape generator's outputs.
 
-[ PHOTO: ESG3 / DSG3 PATCHED WITH 5 CABLES ]
-[ PHOTO: EXAMPLE COMPLEX OUTPUT GALLERY, 3-5 IMAGES ]
+.. image:: lzxart/GettingStartedPatch02.jpg
+.. image:: lzxart/GettingStartedPatch03.jpg
