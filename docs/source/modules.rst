@@ -41,3 +41,4 @@ Modules
    proc
    sumdist
    matte
+   contour
