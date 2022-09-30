@@ -15,7 +15,7 @@ Quick Facts About LZX
 - Modules are compatible with EuroRack cases and patch cables used by modular audio synthesizers.
 - Modules can be powered by 12V DC "wall wart" adapters or by EuroRack power supplies.
 - External video inputs and outputs are the same as the Component & Composite connections found on most televisions and some cameras.
-- Patchable signal levels are lower (1V) than most audio modules (5V-10V), but inputs are tolerant of any voltage produced by a EuroRack system.
+- Patchable signal levels are in the 0 to 1V range; This is lower than most audio modules (0V-10V), but inputs are tolerant of any voltage produced by a EuroRack system.
 - Voltage control inputs are capable of very high frequencies, allowing signals such as camera images to modulate oscillators or VCAs.
 
 .. image:: lzxart/GettingStartedWorkshop.jpg
