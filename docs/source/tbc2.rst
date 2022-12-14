@@ -18,3 +18,25 @@ TBC2 is a dual video input module for your LZX modular system.  Supported are Co
 
 :HP: 16
 :Power Consumption +12V: 550mA
+
++-----------+--------------+------------+
+| MIDI NOTE | Page         | Parameter  |
++===========+==============+============+
+| Note 48   | Media Player | PLAY/PAUSE |
++-----------+--------------+------------+
+| Note 49   | Media Player | BACK       |
++-----------+--------------+------------+
+| Note 50   | Media Player | FORWARD    |
++-----------+--------------+------------+
+| Note 51   | Media Player | STOP       |
++-----------+--------------+------------+
+
++---------+--------------+-------------------------+
+| MIDI CC | Page         | Parameter               |
++=========+==============+=========================+
+| CC 0    | Media Player |  Division Selection     |
++---------+--------------+-------------------------+
+| CC 2    | Encoder A    | A/B Fader               |
++---------+--------------+-------------------------+
+| CC 3    | Encoder B    | A/B Fader               |
++---------+--------------+-------------------------+
