@@ -58,3 +58,30 @@ MIDI Control Change Map
 +---------+--------------+-------------------------+
 | 20      | Decoder B    | SD Processor Contrast   |
 +---------+--------------+-------------------------+
+
+Firmware Releases
+-----------------------------
+
++-----------+---------------------+-------------------------------------------------------------------------------------+
+| Version   | Release Date        | Download                                                                            |
++===========+=====================+=====================================================================================+
+| 1.0       | 01.04.2023          | https://lzxmodular.readthedocs.io/en/latest/firmware/TBC2_Firmware_1.0.zip          |
++-----------+---------------------+-------------------------------------------------------------------------------------+
+
+Firmware Update
+-----------------------------
+
+1. Download the latest firmware package from the releases section, and unzip the files.  Find BOOT.bin and copy it to your MicroSD card.
+2. Power down your TBC2 and insert the MicroSD card.
+3. Power on your system and wait for TBC2 to finish booting, then activate the Update Firmware button on  the System page.
+4. Wait for firmware update to complete, until you see the System Restart prompt.  Activate the Confirm button to restart your system.
+5. Confirm that your TBC2 boots to the correct version by comparing version numbers on the System Page.  Power off / power on your system if you see the wrong version initially. 
+
+Factory Reset
+-----------------------------
+
+1. To reset your TBC2 firmware to the version shipped from the factory, activate the Reset Firmware button on the System page.
+2. Wait for firmware reset to complete, until you see the System Restart prompt.  Activate the Confirm button to restart your system.
+3. Confirm that your TBC2 boots to the factory installed version by comparing version numbers on the System Page.  Power off / power on your system if you see the wrong version initially. 
+
+
