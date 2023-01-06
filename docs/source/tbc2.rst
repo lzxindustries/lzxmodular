@@ -19,24 +19,29 @@ TBC2 is a dual video input module for your LZX modular system.  Supported are Co
 :HP: 16
 :Power Consumption +12V: 550mA
 
-+-----------+--------------+------------+
-| MIDI NOTE | Page         | Parameter  |
-+===========+==============+============+
-| Note 48   | Media Player | PLAY/PAUSE |
-+-----------+--------------+------------+
-| Note 49   | Media Player | BACK       |
-+-----------+--------------+------------+
-| Note 50   | Media Player | FORWARD    |
-+-----------+--------------+------------+
-| Note 51   | Media Player | STOP       |
-+-----------+--------------+------------+
+MIDI Control Change Map
+-----------------------------
 
 +---------+--------------+-------------------------+
-| MIDI CC | Page         | Parameter               |
+| CC      | Module       | Parameter               |
 +=========+==============+=========================+
-| CC 0    | Media Player |  Division Selection     |
+| 0       | Encoder A    | Crossfade               |
 +---------+--------------+-------------------------+
-| CC 2    | Encoder A    | A/B Fader               |
+| 1       | Decoder A    | SD Processor Hue        |
 +---------+--------------+-------------------------+
-| CC 3    | Encoder B    | A/B Fader               |
+| 2       | Decoder A    | SD Processor Saturation |
++---------+--------------+-------------------------+
+| 3       | Decoder A    | SD Processor Brightness |
++---------+--------------+-------------------------+
+| 4       | Decoder A    | SD Processor Contrast   |
++---------+--------------+-------------------------+
+| 16      | Encoder B    | Crossfade               |
++---------+--------------+-------------------------+
+| 17      | Decoder B    | SD Processor Hue        |
++---------+--------------+-------------------------+
+| 18      | Decoder B    | SD Processor Saturation |
++---------+--------------+-------------------------+
+| 19      | Decoder B    | SD Processor Brightness |
++---------+--------------+-------------------------+
+| 20      | Decoder B    | SD Processor Contrast   |
 +---------+--------------+-------------------------+
