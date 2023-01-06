@@ -19,6 +19,19 @@ TBC2 is a dual video input module for your LZX modular system.  Supported are Co
 :HP: 16
 :Power Consumption +12V: 550mA
 
+MicroSD Card Compatibility
+-----------------------------
+
+TBC2 is compatible with some, but not all MicroSD cards.  When you acquire a MicroSD card to use with TBC2, we recommend selecting from the specific brands and models we have tested to be hassle free, listed below. Always purchase MicroSD cards from a trusted vendor with name brand packaging to protect yourself against counterfeits.
+
++------------------+-----------+
+| Brand / Series   | Size      | 
++==================+===========+
+| SanDisk          | 8GB, 16GB | 
++------------------+-----------+
+| SanDisk EDGE     | 8GB       | 
++------------------+-----------+
+
 MIDI Control Change Map
 -----------------------------
 
