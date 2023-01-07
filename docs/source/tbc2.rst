@@ -10,8 +10,11 @@ TBC2 is a dual video input module for your LZX modular system.
 :HP: 16
 :Power Consumption +12V: 550mA
 
-Decoder Module
+Submodules
 -----------------------------
+
+Decoder
++++++++++++++++++++++++++++++
 
 TBC2 has two input decoder modules.  Each supports Component (YPbPr/RGsB), Composite (CVBS) and S-Video (YC) inputs.  With the addition of the VGA/SCART expander, it supports VGA (RGBHV) and SCART (CVBS/RGsB) inputs. 
 
@@ -49,8 +52,8 @@ TBC2 has two input decoder modules.  Each supports Component (YPbPr/RGsB), Compo
 | 1080p30          |
 +------------------+
 
-Genlock Module
------------------------------
+Genlock 
++++++++++++++++++++++++++++++
 
 TBC2 has one genlock module.  This module controls the timing of the output encoders.  It is a full featured Sync Generator with front and rear outputs for video sync. 
 
@@ -88,13 +91,13 @@ TBC2 has one genlock module.  This module controls the timing of the output enco
 | 1080p30          |
 +------------------+
 
-Encoder Module
------------------------------
+Encoder
++++++++++++++++++++++++++++++
 
 TBC2 has two output encoder modules.  Each supports Patchable 1V (YRGB) outputs.  The output video standard follows the setting of the Genlock Module.
 
-Media Module
------------------------------
+Media
++++++++++++++++++++++++++++++
 
 TBC2 has one media module.  This module is capable of loading still images (JPG, PNG, BMP) from the front MicroSD card socket.  The output video standard follows the setting of the Genlock Module.
 
@@ -109,8 +112,8 @@ Always eject or insert your MicroSD card only when your system is powered off.  
 
 The maximum number of images per media folder is determined by the current output video standard, with a minimum of 24 frames in 1920 (W) x 1080 (H) media sizes.
 
-Ramp Generator Module
------------------------------
+Ramp Generator
++++++++++++++++++++++++++++++
 
 TBC2 has one Ramp Generator module. The output video standard follows the setting of the Genlock Module.  The Ramp Generator is a low speed software renderer designed to generate programmable gradients and other patterns.  After any settings change, this module will render a new output frame. 
 
