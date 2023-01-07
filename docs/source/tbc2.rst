@@ -5,19 +5,114 @@ TBC2
    :height: 600
    :alt: TBC2 Dual Decoder & Time Base Corrector frontpanel
 
-TBC2 is a dual video input module for your LZX modular system.  Supported are Composite, Component & S-Video inputs capable of SD/HD video decoding and frame synchronization. 
-
-- SD/HD Video Sync Generator supporting NTSC, PAL, 480p, 576p, 720p50, 720p5994, 720p60, 1080i50, 1080i5994, 1080i60, 1080p2398, 1080p24, 1080p25, 1080p2997, 1080p30 sync formats
-- Dual SD/HD Video Decoders supporting NTSC, PAL, 480p, 576p, 720p50, 720p5994, 720p60, 1080i50, 1080i5994, 1080i60, 1080p2398, 1080p24, 1080p25, 1080p2997, 1080p30 input sources 
-- VESA/VGA input up to 1024x768 with optional 10HP VGA+SCART expander.
-- Playback of still images and looping sequences loaded from frontpanel MicroSD card slot
-- Adjustable frame delay  
-- Color correction controls for each input: Hue, Saturation, Contrast & Brightness
-- Auto upscaling and downscaling modes for each input: Fit, Crop, Stretch & Bypass
-- MIDI input for remote parameter control
+TBC2 is a dual video input module for your LZX modular system. 
 
 :HP: 16
 :Power Consumption +12V: 550mA
+
+Decoder Module
+-----------------------------
+
+TBC2 has two input decoder modules.  Each supports Component (YPbPr/RGsB), Composite (CVBS) and S-Video (YC) inputs.  With the addition of the VGA/SCART expander, it supports VGA (RGBHV) and SCART (CVBS/RGsB) inputs. 
+
++------------------+
+| Input Standard   | 
++==================+
+| NTSC             |
++------------------+
+| PAL              |
++------------------+
+| 480p             |
++------------------+
+| 576p             |
++------------------+
+| 720p50           |
++------------------+
+| 720p5994         |
++------------------+
+| 720p60           |
++------------------+
+| 1080i50          |
++------------------+
+| 1080i5994        |
++------------------+
+| 1080i60          |
++------------------+
+| 1080p2398        |
++------------------+
+| 1080p24          |
++------------------+
+| 1080p25          |
++------------------+
+| 1080p2997        |
++------------------+
+| 1080p30          |
++------------------+
+
+Genlock Module
+-----------------------------
+
+TBC2 has one genlock module.  This module controls the timing of the output encoders.  It is a full featured Sync Generator with front and rear outputs for video sync. 
+
++------------------+
+| Output Standard  | 
++==================+
+| NTSC             |
++------------------+
+| PAL              |
++------------------+
+| 480p             |
++------------------+
+| 576p             |
++------------------+
+| 720p50           |
++------------------+
+| 720p5994         |
++------------------+
+| 720p60           |
++------------------+
+| 1080i50          |
++------------------+
+| 1080i5994        |
++------------------+
+| 1080i60          |
++------------------+
+| 1080p2398        |
++------------------+
+| 1080p24          |
++------------------+
+| 1080p25          |
++------------------+
+| 1080p2997        |
++------------------+
+| 1080p30          |
++------------------+
+
+Encoder Module
+-----------------------------
+
+TBC2 has two output encoder modules.  Each supports Patchable 1V (YRGB) outputs.  The output video standard follows the setting of the Genlock Module.
+
+Media Module
+-----------------------------
+
+TBC2 has one media module.  This module is capable of loading still images (JPG, PNG, BMP) from the front MicroSD card socket.  The output video standard follows the setting of the Genlock Module.
+
+To use the media module, copy your images into a subfolder of a compatible MicroSD card.  For example:
+
+/media/folder/frame1.JPG
+/media/folder/frame2.JPG
+
+We recommend preparing media in a size matching your system's output video standard in JPG or PNG formats.  For example, for NTSC video, prepare media at 720 (W) x 486 (H) dimensions.
+
+Always eject or insert your MicroSD card only when your system is powered off.  Keep remote backups of any data on your MicroSD card.
+
+The maximum number of images per media folder is determined by the current output video standard, with a minimum of 24 frames in 1920 (W) x 1080 (H) media sizes.
+
+Ramp Generator Module
+-----------------------------
+
+TBC2 has one Ramp Generator module. The output video standard follows the setting of the Genlock Module.  The Ramp Generator is a low speed software renderer designed to generate programmable gradients and other patterns.  After any settings change, this module will render a new output frame. 
 
 MicroSD Card Compatibility
 -----------------------------
