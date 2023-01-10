@@ -125,7 +125,7 @@ TBC2 has one Ramp Generator submodule. The output video standard follows the set
 MicroSD Card Compatibility
 -----------------------------
 
-TBC2 is compatible with some, but not all MicroSD cards.  When you acquire a MicroSD card to use with TBC2, we recommend selecting from the specific brands and models we have tested to be hassle free, listed below. Always purchase MicroSD cards from a trusted vendor with name brand packaging to protect yourself against counterfeits.
+TBC2 is compatible with some, but not all MicroSD cards.  When you acquire a MicroSD card to use with TBC2, we recommend selecting from the specific brands and models we have tested to be hassle free, listed below. Always purchase MicroSD cards from a trusted vendor with name brand packaging to protect yourself against counterfeits.  To prepare your MicroSD card for use with TBC2, please format the card as FAT32 with default sector size.
 
 +------------------+-----------+
 | Brand / Series   | Size      | 
