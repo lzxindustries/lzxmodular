@@ -16,7 +16,7 @@ Submodules
 Decoder
 +++++++++++++++++++++++++++++
 
-TBC2 has two input decoder modules.  Each supports Component (YPbPr/RGsB), Composite (CVBS) and S-Video (YC) inputs.  With the addition of the VGA/SCART expander, it supports VGA (RGBHV) and SCART (CVBS/RGsB) inputs. 
+TBC2 has two input decoder submodules.  Each supports Component (YPbPr/RGsB), Composite (CVBS) and S-Video (YC) inputs.  With the addition of the VGA/SCART expander, it supports VGA (RGBHV) and SCART (CVBS/RGsB) inputs. 
 
 +------------------+
 | Input Standard   | 
@@ -51,11 +51,17 @@ TBC2 has two input decoder modules.  Each supports Component (YPbPr/RGsB), Compo
 +------------------+
 | 1080p30          |
 +------------------+
+| 640x480p60       |
++------------------+
+| 800x600p60       |
++------------------+
+| 1024x768p60      |
++------------------+
 
 Genlock 
 +++++++++++++++++++++++++++++
 
-TBC2 has one genlock module.  This module controls the timing of the output encoders.  It is a full featured Sync Generator with front and rear outputs for video sync. 
+TBC2 has one genlock submodule.  This module controls the timing of the output encoders.  It is a full featured Sync Generator with front and rear outputs for video sync. 
 
 +------------------+
 | Output Standard  | 
@@ -94,17 +100,16 @@ TBC2 has one genlock module.  This module controls the timing of the output enco
 Encoder
 +++++++++++++++++++++++++++++
 
-TBC2 has two output encoder modules.  Each supports Patchable 1V (YRGB) outputs.  The output video standard follows the setting of the Genlock Module.
+TBC2 has two output encoder submodules.  Each supports Patchable 1V (YRGB) outputs.  The output video standard follows the setting of the Genlock Module.
 
 Media
 +++++++++++++++++++++++++++++
 
-TBC2 has one media module.  This module is capable of loading still images (JPG, PNG, BMP) from the front MicroSD card socket.  The output video standard follows the setting of the Genlock Module.
+TBC2 has one media submodule.  This module is capable of loading still images (JPG, PNG, BMP) from the front MicroSD card socket.  The output video standard follows the setting of the Genlock Module.
 
 To use the media module, copy your images into a subfolder of a compatible MicroSD card.  For example:
 
 /media/folder/frame1.JPG
-/media/folder/frame2.JPG
 
 We recommend preparing media in a size matching your system's output video standard in JPG or PNG formats.  For example, for NTSC video, prepare media at 720 (W) x 486 (H) dimensions.
 
@@ -115,7 +120,7 @@ The maximum number of images per media folder is determined by the current outpu
 Ramp Generator
 +++++++++++++++++++++++++++++
 
-TBC2 has one Ramp Generator module. The output video standard follows the setting of the Genlock Module.  The Ramp Generator is a low speed software renderer designed to generate programmable gradients and other patterns.  After any settings change, this module will render a new output frame. 
+TBC2 has one Ramp Generator submodule. The output video standard follows the setting of the Genlock Module.  The Ramp Generator is a low speed software renderer designed to generate programmable gradients and other patterns.  After any settings change, this module will render a new output frame. 
 
 MicroSD Card Compatibility
 -----------------------------
@@ -160,11 +165,11 @@ MIDI Control Change Map
 Firmware Releases
 -----------------------------
 
-+-----------+---------------------+-------------------------------------------------------------------------------------+
-| Version   | Release Date        | Download                                                                            |
-+===========+=====================+=====================================================================================+
-| 1.0       | 01.04.2023          | :download:`TBC2_Firmware_1.0.zip <firmware/TBC2_Firmware_1.0.zip>`                  |
-+-----------+---------------------+-------------------------------------------------------------------------------------+
++-----------+---------------------+-------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
+| Version   | Release Date        | Download                                                                            | Notes                                                                               |
++===========+=====================+=====================================================================================+=====================================================================================+
+| 1.0       | 01.04.2023          | :download:`TBC2_Firmware_1.0.zip <firmware/TBC2_Firmware_1.0.zip>`                  | Initial release                                                                     |
++-----------+---------------------+-------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------+
 
 Firmware Update
 -----------------------------
