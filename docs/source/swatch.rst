@@ -4,6 +4,8 @@ Swatch
 .. image:: lzxart/Swatch/Frontpanel.png
    :height: 600
 
+:HP: 8
+:Power Consumption +12V: 140mA
 
 .. Frontpanel Legend
 .. -----------------------
