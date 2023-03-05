@@ -4,10 +4,33 @@ Angles
 .. image:: lzxart/Angles/Frontpanel.png
     :height: 600
 
-Angles is a dual SD/HD video ramp generator and fixed quadrant mixer.
+Angles is a dual SD/HD ramp waveform generator and 24 output fixed ratio mixer.  
+
+*Break outside the HV box*
+
+Horizontal and vertical waveform generators are an essential ingredient in most generative patches.  Due to this, many patches may feel constrained within a box, with the dimensions of shapes and patterns either oriented at 0 or 90 degrees.  Angles offers ratio mixes from 0 to 345 degrees in 15 degree increments across 24 ouputs -- that's over 500 different alternatives to HV.  Instead of patching *HV*, you can now *pick any 2 angles*.  
+
+*A protractor for your patch*
+
+In order to synthesize visual elements with complex geometries, such as vanishing point illusions or polygons, one needs parallel access to separate angles at fixed ratios on independent outputs. For this purpose, a single crossfader or mixer does not go very far, and Angles becomes very powerful.
 
 :HP: 12
 :Power Consumption +12V: 175mA
+
+System Building Tips
+-----------------------
+
+Angles is a great support module to add after your system includes one or more of the following modules: Dual Shape Generator, Dual Wideband Oscillator, Stairs, Keychain.  It really shines in 4+ module systems where its outputs can be distributed throughout the patch to multiple destinations.
+
+Patching Tips
+-----------------
+
+- *Waveshape Expander*. Patch your Dual Oscillator outputs or Dual Shape Generator outputs into Angles' inputs to expand the number of available waveforms.
+- *Spatial Reference*. Patch any 2 outputs from Angles into your Dual Shape Generator to completely change the orientation of its generated patterns.
+- *Oscillator Protractor*. Patch outputs from Angles into your Dual Oscillator CV inputs to modulate its' waveforms at different angles. 
+- *Complex Color Field*. Patch any 3 outputs from Angles into RGB to create a complex color gradient for use as a background or modulation source.
+- *Quadrature Expander*. Patch the +/-Sin/Cos outputs from a quadrature oscillator into Angles' four inputs to create a full spread of 24 different output phases.
+- *Hierarchichal Spatial Reference*. Patch any 4 outputs from one Angles to the 4 input on a second Angles module to get a completely different set of 24 perspectives.
 
 Frontpanel Legend
 -----------------------
